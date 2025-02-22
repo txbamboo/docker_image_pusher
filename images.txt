@@ -1,1 +1,1 @@
-linuxserver/qbittorrent:latest
+aria2-pro
